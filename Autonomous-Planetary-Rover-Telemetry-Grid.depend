@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790681384 source:c:\users\user\downloads\autonomous-planetary-rover-telemetry-grid\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
